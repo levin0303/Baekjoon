@@ -5,6 +5,7 @@ using namespace std;
 typedef long long ll;
 int main()
 {
+	//에라토스테네스의 체
     cin.tie(NULL);ios::sync_with_stdio(false);
 	ll min, max;
 	int cnt = 0;
